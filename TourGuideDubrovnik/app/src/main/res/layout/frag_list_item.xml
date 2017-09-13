@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/item_container"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/TxtViewDesign"
+            android:textSize="25sp"
+            android:id="@+id/item_name"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            style="@style/ImageViewDesign"
+            android:layout_gravity="top"
+            android:id="@+id/item_image"/>
+
+        <TextView
+            style="@style/TxtViewDesign"
+            android:layout_gravity="top"
+            android:textSize="18sp"
+            android:id="@+id/text_description" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <RatingBar
+            style="@style/Base.Widget.AppCompat.RatingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:rating="0.0"
+            android:stepSize="1.0"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/rating_bar" />
+
+        <TextView
+            style="@style/TxtViewDesign"
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:id="@+id/rating_txt" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:id="@+id/tel_icon_image"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:textSize="15sp"
+            android:id="@+id/tel_text_view"/>
+
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/location_icon"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

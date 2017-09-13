@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Tour Guide Dubrovnik</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    // FRAGMENT NAMES STRINGS
+    <string name="bars_frag">Bars</string>
+    <string name="food_wine_frag">Food and wine</string>
+    <string name="activities_frag">Activities</string>
+    <string name="attractions_frag">Attractions</string>
+
+    // ITEM NAMES STRINGS
+    <string name="katie">Katie O\'Connors</string>
+    <string name="art">Cafe Bar Art</string>
+    <string name="karaka">Irish Pub Karaka</string>
+    <string name="cele">Cele</string>
+    <string name="buza">Buza Bar</string>
+    <string name="nautika">Nautika Restaurant</string>
+    <string name="orsan">Orsan Restaurant</string>
+    <string name="shizuku">Shizuku - japanese restaurant</string>
+    <string name="mea_culpa">Pizzeria Mea Culpa</string>
+    <string name="pantarul">Pantarul Restaurant</string>
+    <string name="got">Game of thrones Tour</string>
+    <string name="elafiti">Elafiti Islands Tour</string>
+    <string name="konavle">Konavle Safari Tour</string>
+    <string name="ivan">Panorama Sv. Ivan</string>
+    <string name="pub_crawl">Pub crawl Dubrovnik</string>
+    <string name="maritime">Maritime Museum Dubrovnik</string>
+    <string name="rupe">The Rupe Museum</string>
+    <string name="mala_braca">Mala braca pharmacy</string>
+    <string name="dominican">Dominican Monastery</string>
+    <string name="gallery">Art gallery Dubrovnik</string>
+
+    // ITEM DESCRIPTION STRINGS
+    <string name="katie_description">Looking for a spot to take a break and have a drink in Dubrovnik? This Irish pub has no food but there\'s plenty of nutrition in a Guinness. Sit inside or out, it\'s a good pluck.</string>
+    <string name="art_description">Nice little cafe with a large and varied section of drinks. Great original bath tub chairs which are great fun to sit in and watch the world go by.</string>
+    <string name="karaka_description">Typical Irish bar found all over the world! And we love em. Great selection of beers here, good music and friendly staff.</string>
+    <string name="cele_description">If you are in Dubrovnik you cannot miss this place as it is in the very heart of it at the end of "Stradun" the main street. Very popular place day and night.</string>
+    <string name="buza_description">Buza Bar is a great spot to grab a drink and catch some views of sunset. The entrance is a small opening/hole along the ocean-facing side of the Old Town city walls. </string>
+    <string name="nautika_description">Locals consider Nautika premium restaurant of Dubrovnik, with it\'s amazing location and excellent service no one can leave this place unsatisfied!  </string>
+    <string name="orsan_description">If you want to move away from the crowded streets and you are looking for a restaurant where you will be able to relax, an oasis of peace and good mood where you will enjoy home-made food and good wine.</string>
+    <string name="shizuku_description">If you want to have a taste of true Sushi and Japanese cuisine in Dubrovnik this is the place to go to. Consistently great without any detriment to quality of ingredients and beautifully presented food that you will eat with delight.</string>
+    <string name="mea_culpa_description">Tucked away in the quiet and peaceful old medieval alleyway just 100 metres away from "Stradun", whether it’s a romantic dinner for two, a casual lunch, or a special evening out, Mea Culpa offers you one of the best dining experiences Dubrovnik has to offer.</string>
+    <string name="pantarul_description">Are you up for a snack with a glass of local wine or a several-course dinner which will make all your senses flick? Our chef "Jadran Tutavac" will have the right solution, whatever you may wish for. Top quality, yet unpretentious food – modern cuisine at its best.</string>
+    <string name="got_description">Get closer than ever to "Game of Thrones" on this 1.5-hour tour. Experience why Dubrovnik provides the perfect setting for King\’s Landing as you stroll along the city\'s cobbled streets.</string>
+    <string name="elafiti_description">Set sail and get out of the city by booking this fun day trip to the ancient Elafiti Islands.While visiting Koločep, Lopud and Šipan Islands, learn the history of the places and even indulge in a traditional Croatian lunch with live folk music.</string>
+    <string name="konavle_description">This beautiful tour offers a three-hour adrenaline ride. Feel the charm of a true off-road and experience Konavle in a different and more exciting way: beautiful nature, forests, meadows, rivers, sea and views that take your breath away.</string>
+    <string name="ivan_description">The boat was built in 1878. and renovated in period 2000-2002 under the protection of the Ministry of Culture Republic of Croatia As a Cultural heritage. Discover Dubrovnik sunset with its sea-side every day from 6:30 pm. The full experience of the 18th century</string>
+    <string name="pub_crawl_description">Amazing Dubrovnik Pub Crawl experience: 60 minute unlimited drinks, 2 bars and free entrance to Culture Club Revelin.</string>
+    <string name="maritime_description">The Maritime Museum was founded in 1949 at the initiative of the Yugoslav (today the Croatian) Academy of Sciences and Arts; since 1987 it was been a part of the Dubrovnik Museums. Today it has holdings of over five thousand objects classified into fifteen collections.</string>
+    <string name="rupe_description">The Ethnographic Museum has its origins in the collection of traditional culture that began to be formed in the first decades of the twentieth century. Its holdings were very much enlarged with specimens of traditional attire and lace donated several times by that great benefactor of the museum, Jelka Miš (1875 -1956).</string>
+    <string name="mala_braca_description">Pharmacy within the Franciscan Monastery of Dubrovnik celebrates its 700th birthday. Amazing anniversary is marked throughout the various events in 2017, and one of them is definitely a must see Night of the Church Museums.</string>
+    <string name="dominican_description">A special treasure of this monastery is its library with over 220 incunables, numerous illustrated manuscripts, and rich archive with precious manuscripts and documents. </string>
+    <string name="gallery_description">The Museum of Modern Art Dubrovnik was founded in 1945. The building now occupied by the Museum of Modern Art Dubrovnik was originally conceived and built (1935-1939) as the showcase residential mansion of Dubrovnik ship owner Božo Banac, and in 1948 it was converted into exhibition premises and museum.</string>
+
+
+    // PHONE ITEM STRINGS
+    <string name="tel_katie">tel: 0038520 321 575</string>
+    <string name="tel_art">tel: 0038520 334 718</string>
+    <string name="tel_karaka">tel: 0038520 323 970</string>
+    <string name="tel_cele">tel: 0038520 323 970</string>
+    <string name="tel_buza">tel: 0038598 361 934</string>
+    <string name="tel_nautika">tel: 0038520 442 526</string>
+    <string name="tel_orsan">tel: 0038520 436 822</string>
+    <string name="tel_shizuku">tel: 0038520 311 493</string>
+    <string name="tel_mea_culpa">tel: 0038520 323 430</string>
+    <string name="tel_pantarul">tel: 0038520 333 486</string>
+    <string name="tel_got">tel: 0038598 175 1775</string>
+    <string name="tel_elafiti">tel: 0038520 358 200</string>
+    <string name="tel_konavle">tel: 0038598 345 526</string>
+    <string name="tel_ivan">tel: 0038598 2414 3919</string>
+    <string name="tel_pub_crawl">tel: 0038599 222 5060</string>
+    <string name="tel_maritime">tel: 0038520 321 497</string>
+    <string name="tel_rupe">tel: 0038520 412 545</string>
+    <string name="tel_mala_braca">tel: 0038520 641 111</string>
+    <string name="tel_dominican">tel: 0038520 641 111</string>
+    <string name="tel_gallery">tel: 0038520 426 590</string>
+
+
+    // LOCATION ITEM STRINGS
+    <string name="loc_katie">geo: 42.641498, 18.109835</string>
+    <string name="loc_art">geo: 42.643185, 18.102719</string>
+    <string name="loc_karaka">geo:42.641044, 18.109522</string>
+    <string name="loc_cele">geo:42.641048, 18.110099</string>
+    <string name="loc_buza">geo:42.639353, 18.108604</string>
+    <string name="loc_nautika">geo: 42.641764, 18.107046</string>
+    <string name="loc_orsan">geo: 42.660161, 18.079492</string>
+    <string name="loc_shizuku">geo: 42.656826, 18.078439</string>
+    <string name="loc_mea_culpa">geo: 42.640806, 18.107783</string>
+    <string name="loc_pantarul">geo: 42.654141, 18.077464</string>
+    <string name="loc_got">geo: 42.653939, 18.083384</string>
+    <string name="loc_elafiti">geo: 42.651350, 18.091158</string>
+    <string name="loc_konavle">geo: 42.645620, 18.099447</string>
+    <string name="loc_ivan">geo: 42.639991, 18.111619</string>
+    <string name="loc_pub_crawl">geo: 42.641893, 18.105544</string>
+    <string name="loc_maritime">geo: 42.641750, 18.117881</string>
+    <string name="loc_rupe">geo: 42.640446, 18.107320</string>
+    <string name="loc_mala_braca">geo: 42.641079, 18.110652</string>
+    <string name="loc_dominican">geo: 42.641705, 18.111632</string>
+    <string name="loc_gallery">geo: 42.641893, 18.105544</string>
+
+</resources>

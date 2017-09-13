@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    // BACKGROUND FRAGMENTS COLOR
+    <color name="colorBars">#000</color>
+    <color name="colorRestaurants">#C8E6C9</color>
+    <color name="colorTours">#FFAB91</color>
+    <color name="colorAttractions">#B2EBF2</color>
+
+    // TEXT FRAGMENTS COLOR
+    <color name="textColorBars">#FFD24D</color>
+    <color name="textColorRestaurants">#1B5E20</color>
+    <color name="textColorTours">#BF360C</color>
+    <color name="textColorAttractions">#006064</color>
+
+    //TAB COLOR
+    <color name="tabColor">#616161</color>
+
+</resources>
